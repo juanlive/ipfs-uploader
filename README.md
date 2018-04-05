@@ -36,7 +36,7 @@ La función devuelve “true” si el pago fue aceptado o si ya existía un pago
 regDoc(address _address , string _hash)
 Función a llamar luego de subir el documento.
 _address es la address del cliente. _hash es el hash devuelto por IPFS.
-La tx debe ser firmada por el admin (a través de Infura o Hardy).
+La tx debe ser firmada por el admin (a través de Infura).
 
 
 
