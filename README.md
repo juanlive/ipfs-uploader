@@ -16,6 +16,7 @@ Owner recibirá los pagos enviados por los usuarios.
 ABI al final.
 
 Este contrato es utilizado en conjunto por una dApp que envía los documentos a la red IPFS.
+Implementa el sistema Intelligent Storage para almacenamiento de balances.
 
 
 Main functions
